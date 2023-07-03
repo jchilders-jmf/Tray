@@ -1,0 +1,1 @@
+C:\JMFtech\Tray\JMFTechTray.msi /i /qn /norestart
